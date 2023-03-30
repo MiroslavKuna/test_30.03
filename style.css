@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(71, 71, 71);
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.btn{
+    margin-left: 10px;
+}
